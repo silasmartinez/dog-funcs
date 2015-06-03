@@ -3,7 +3,7 @@
  */
 var dog = require('./dog.js');
 
-var dogs = ["Fido", "Harleigh", "Mali", "Trixie", "Snow", "Victory"];
+var dogs = ["Fido", "Harleigh", "Cooper", "Mali", "Trixie", "Snow", "Victory"];
 
 console.log(dog.howManyDogs(dogs));
 console.log(dog.nameLengths(dogs));
